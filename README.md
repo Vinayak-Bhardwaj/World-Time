@@ -1,16 +1,10 @@
 # world_time
 
-A new Flutter application.
+A Flutter application which allows you to see the current time of any country across the world, it uses world time API's
 
-## Getting Started
+## Application Screen shots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![time1](https://user-images.githubusercontent.com/56202430/110586124-af897c80-8197-11eb-8086-ea4936ef647b.jpeg)
+![time2](https://user-images.githubusercontent.com/56202430/110586127-b0221300-8197-11eb-895a-ccbae4b0ce1a.jpeg)
+![time4](https://user-images.githubusercontent.com/56202430/110586128-b0baa980-8197-11eb-98c7-52d38ea0e94b.jpeg)
+![time 3](https://user-images.githubusercontent.com/56202430/110586129-b0baa980-8197-11eb-8c95-eef25d9ddb47.jpeg)
